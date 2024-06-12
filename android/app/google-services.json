@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "470794303211",
+    "project_id": "pasal-f",
+    "storage_bucket": "pasal-f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470794303211:android:c9a894495bbebe95e6b0ae",
+        "android_client_info": {
+          "package_name": "com.example.pasal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470794303211-fsb4j4rpv6us21e7a09jm12rfp0ktj0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZudlPT2GJZKQhC5GyArzzv-5EgBpHGlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470794303211-fsb4j4rpv6us21e7a09jm12rfp0ktj0d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470794303211-6ucq5hhjdf96q5fab6r3ehjei3caqg6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pasal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
